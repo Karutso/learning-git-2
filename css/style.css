@@ -7,6 +7,9 @@ section {
     position: relative;
 }
 
+p {
+    font-family: 'Bungee', sans-serif;}
+
 span {
     font-weight: 700;
 }
